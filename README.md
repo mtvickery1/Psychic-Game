@@ -10,3 +10,5 @@ What the project does?
 Why the project is useful
 -It displays an understanding of some JavaScript fundamentals.
 -Can be used to help others learn.
+
+Link: https://mtvickery1.github.io/Psychic-Game/
